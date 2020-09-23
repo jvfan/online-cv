@@ -1,4 +1,4 @@
-这是一个 **Jekyll Themes**，fork 自 sharu725 大神的作品；
+这是一个 **Jekyll Themes**，fork 自 sharu725；
 
 ## Installation
 
