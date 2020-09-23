@@ -1,4 +1,4 @@
-这是一个 **Jekyll Themes**，fork 自 sharu725；
+这是一个 Jekyll Themes，fork 自 sharu725；
 
 ## Installation
 
@@ -10,7 +10,7 @@
 
 Change all the details from one place: ``_data/data.yml``
 
-Watch my [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installation.
+Watch the [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installation.
 
 ## Skins
 
